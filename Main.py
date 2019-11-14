@@ -308,7 +308,7 @@ class TasmotaFlasher(wx.Frame):
                     erase_label, erase_boxsizer,
                     (wx.StaticText(panel, label="")), (button, 1, wx.EXPAND),
                     (console_label, 1, wx.EXPAND), (self.console_ctrl, 1, wx.EXPAND)])
-        fgs.AddGrowableRow(6, 1)
+        fgs.AddGrowableRow(5, 1)
         fgs.AddGrowableCol(1, 1)
         hbox.Add(fgs, proportion=2, flag=wx.ALL | wx.EXPAND, border=15)
         panel.SetSizer(hbox)
