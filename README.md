@@ -3,7 +3,7 @@
 [![Github Releases](https://img.shields.io/github/downloads/Jason2866/tasmota-pyflasher/total.svg?style=flat)](https://github.com/Jason2866/tasmota-pyflasher/releases)
 
 
-Self-contained [Tasmota](https://https://github.com/arendst/Tasmota) flasher with GUI based on [esptool.py](https://github.com/espressif/esptool) and [wxPython](https://www.wxpython.org/).
+Self-contained [Tasmota](https://github.com/arendst/Tasmota) flasher with GUI based on [esptool.py](https://github.com/espressif/esptool) and [wxPython](https://www.wxpython.org/).
 
 ![Image of Tasmota PyFlasher GUI](images/gui.png)
 
